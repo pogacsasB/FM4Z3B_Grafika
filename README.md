@@ -9,4 +9,4 @@ Egy "dash" mozdulattal az objektumunk gyorsan elmozdulna eredeti helyéről, ezt
 Végül egy aktuális pályán a fenti parancsok bemutatása, kipróbálása.
 Ezt a pályát magam terveztem elkészíteni Blender segítségével.
 A pálya nem lenne kifejezetten komplikált vagy kihivást keltő, csak arra szolgálna, hogy bemutassa a megoldott parancsok működését.
-Ezért a javarészt egyszerű oszlopokból állnak, amelyeken végig ugrálva eljutnánk a pálya végére.
+Ezért javarészt egyszerű oszlopokból állna, amelyeken végig ugrálva eljutnánk a pálya végére.
